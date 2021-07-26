@@ -20,6 +20,15 @@ Assignment 2 : Otsu Thresholding <br />
 ![aluminium](https://user-images.githubusercontent.com/26121645/127032186-10550ca3-7dde-4ba6-bd5e-aa86e45f498f.png)
 
 Assignment 3 : Hough Transform <br />
+![accumulator_image_cells](https://user-images.githubusercontent.com/26121645/127032424-57770b10-5212-4ce3-8e93-39169030d509.png)
+![accumulator_image_circles](https://user-images.githubusercontent.com/26121645/127032426-7bf4d9b9-2005-435b-9d34-b17834b2081e.png)
+![overlay_detected_blood](https://user-images.githubusercontent.com/26121645/127032427-edb55d79-5f9a-4719-ae20-69b2c1326abb.png)
+![overlay_detected_cable](https://user-images.githubusercontent.com/26121645/127032428-426c8760-4388-4d80-9fc5-cb2b3795ccf8.png)
+![overlay_detected_cells](https://user-images.githubusercontent.com/26121645/127032431-d96e4f1a-cd45-4be4-ad99-824298302c66.png)
+![overlay_detected_circles](https://user-images.githubusercontent.com/26121645/127032433-2b3f5bdd-6ae1-4cc3-b34e-ab5a7428befb.png)
+![accumulator_image_blood](https://user-images.githubusercontent.com/26121645/127032434-bcc07e8d-8a09-45bf-8570-1fe68630b3c5.png)
+![accumulator_image_cable](https://user-images.githubusercontent.com/26121645/127032436-0ea44447-d9dd-40c9-b317-8974cad98d29.png)
+
 Assignment 4 :Dense Optical flow <br />
 
 # Sensor Fusion
