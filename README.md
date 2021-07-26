@@ -12,6 +12,13 @@ Assignment 1 : Prewitt Edge Detection <br />
 
 
 Assignment 2 : Otsu Thresholding <br />
+![finger](https://user-images.githubusercontent.com/26121645/127032178-22eea473-14b5-4c71-9d6a-f173d1067ebb.png)
+![julia](https://user-images.githubusercontent.com/26121645/127032180-6b6e0595-8378-4f9b-86b0-5e06d8b2188a.png)
+![otsu_aluminium](https://user-images.githubusercontent.com/26121645/127032182-7ca2134a-a2c3-42c3-a400-1f5b0ec6c640.jpg)
+![otsu_finger](https://user-images.githubusercontent.com/26121645/127032183-51d78057-d423-4b4e-907c-476b64ecb3a2.jpg)
+![otsu_julia](https://user-images.githubusercontent.com/26121645/127032184-bd724346-3870-40b7-a1d1-1a86e4b75570.jpg)
+![aluminium](https://user-images.githubusercontent.com/26121645/127032186-10550ca3-7dde-4ba6-bd5e-aa86e45f498f.png)
+
 Assignment 3 : Hough Transform <br />
 Assignment 4 :Dense Optical flow <br />
 
