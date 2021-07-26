@@ -1,3 +1,6 @@
 # Image_Processing
 
-This  repository contains my task/assignments related to (3D) image_processing course from my university during my master degree.
+Assignment 1 : Prewitt Edge Filtering and Non maximal suppression
+Assignment 2 : Otsu Thresholding
+Assignment 3 : Circle detection using Hough Transform
+Assignment 4 : Optical flow
