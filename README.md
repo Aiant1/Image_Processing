@@ -1,3 +1,5 @@
+#Disclaimer : If any of my fellow junior from ELTE informatics,Budapest,trying to use the solution please be aware that the teacher already has these solutions ,copy pasting can lead you to big trouble.Kindly use the solutions just as a reference.
+
 # Image_Processing
 
 Assignment 1 : Prewitt Edge Detection <br />
